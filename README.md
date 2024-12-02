@@ -8,3 +8,5 @@
   расчёт подсетей IPv4
 * [hw\_08](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw08) -
   настройка IPv6-адресов на сетевых устройствах
+* [hw\_12](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw12) -
+доступ к сетевым устройствам по протоколу SSH
