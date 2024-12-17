@@ -12,3 +12,5 @@
 доступ к сетевым устройствам по протоколу SSH
 * [hw\_14](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw14) -
 маршрутизация VLAN
+* [hw\_16](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw16) -
+изучение протокола STP
