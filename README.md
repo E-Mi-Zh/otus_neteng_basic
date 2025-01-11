@@ -14,3 +14,7 @@
 маршрутизация VLAN
 * [hw\_16](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw16) -
 изучение протокола STP
+* [hw\_20](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw20) -
+протоколы DHCPv4 и DHCPv6
+* [hw\_22](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw22) -
+настройки безопасности L2
