@@ -566,7 +566,7 @@ S2(config)#
 #### a. Отключение неиспользуемых портов
 
 На **S1** и **S2** переместим неиспользуемые порты из VLAN 1 в VLAN 999 и
-отключите их.
+отключим их.
 
 <details>
 <summary>Коммутатор <strong>S1</strong></summary>
@@ -1030,7 +1030,7 @@ FastEthernet0 Connection:(default port)
 
 После включения DHCP snooping запросы адреса с **PC-B** перестали выполняться.
 
-Для того, чтобы запросы стали проходить отключим вставку опции 82:
+Для того, чтобы запросы стали проходить отключим вставку опции DHCP 82:
 
 ```text
 S2(config)#no ip dhcp snooping information option
@@ -1051,8 +1051,7 @@ C:\>ipconfig /renew
 
 #### f. Проверка привязки DHCP
 
-Проверим привязку отслеживания DHCP с помощью команды **show ip dhcp snooping binding** 
-(заработало только после отключения опции 82).
+Проверим привязку отслеживания DHCP с помощью команды **show ip dhcp snooping binding**.
 
 ```text
 S2#show ip dhcp snooping binding
