@@ -18,3 +18,5 @@
 протоколы DHCPv4 и DHCPv6
 * [hw\_22](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw22) -
 настройки безопасности L2
+* [hw\_26](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw26) -
+настройка OSPF для одной области
