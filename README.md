@@ -20,3 +20,5 @@
 настройки безопасности L2
 * [hw\_26](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw26) -
 настройка OSPF для одной области
+* [hw\_29](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw29) -
+настройка и проверка расширенных ACL
