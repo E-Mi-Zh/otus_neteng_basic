@@ -22,3 +22,5 @@
 настройка OSPF для одной области
 * [hw\_29](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw29) -
 настройка и проверка расширенных ACL
+* [hw\_33](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw33) -
+настройка NAT для IPv4
