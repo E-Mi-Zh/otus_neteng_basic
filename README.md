@@ -24,3 +24,5 @@
 настройка и проверка расширенных ACL
 * [hw\_33](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw33) -
 настройка NAT для IPv4
+* [hw\_36](https://github.com/E-Mi-Zh/otus_neteng_basic/tree/master/hw36) -
+протоколы CDP, LLDP, NTP
